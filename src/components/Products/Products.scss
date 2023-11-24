@@ -1,0 +1,17 @@
+.products{
+  margin-top: 60px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+  &>a{
+    width: 400px;
+    height: 400px;
+    cursor: pointer;
+
+    img{
+      width: 100%;
+      height: 100%;
+    }
+  }
+}

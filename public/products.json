@@ -1,0 +1,184 @@
+{
+  "tees": [
+    {
+      "id": 1,
+      "brand": "PROSTO",
+      "sizes": [
+        {
+          "size": "XS",
+          "amount": 10
+        },
+        {
+          "size": "S",
+          "amount": 5
+        },
+        {
+          "size": "M",
+          "amount": 15
+        },
+        {
+          "size": "L",
+          "amount": 25
+        },
+        {
+          "size": "XL",
+          "amount": 50
+        }
+      ],
+      "image": "https://sportstylestory.com/gfx/prosto_kl232mtee1143-83s-bez_38237.jpg",
+      "gender": "male",
+      "price": 119.99,
+      "name": "Męski tshirt z nadrukiem Prosto Dice beżowy"
+    },
+    {
+      "id": 2,
+      "brand": "PROSTO",
+      "sizes": [
+        {
+          "size": "XS",
+          "amount": 5
+        },
+        {
+          "size": "S",
+          "amount": 15
+        },
+        {
+          "size": "M",
+          "amount": 10
+        },
+        {
+          "size": "L",
+          "amount": 43
+        },
+        {
+          "size": "XL",
+          "amount": 23
+        }
+      ],
+      "image": "https://sportstylestory.com/gfx/prosto_kl232mtee1141-10s-bialy_28057.jpg",
+      "gender": "male",
+      "price": 119.99,
+      "name": "Męski tshirt z nadrukiem Prosto Dice biały"
+    },
+    {
+      "id": 3,
+      "brand": "PROSTO",
+      "sizes": [
+        {
+          "size": "XS",
+          "amount": 11
+        },
+        {
+          "size": "S",
+          "amount": 25
+        },
+        {
+          "size": "M",
+          "amount": 3
+        },
+        {
+          "size": "L",
+          "amount": 1
+        },
+        {
+          "size": "XL",
+          "amount": 0
+        }
+      ],
+      "image": "https://sportstylestory.com/gfx/prosto_kl232mtee1213-25s-szary_43738.jpg",
+      "gender": "male",
+      "price": 119.99,
+      "name": "Męski tshirt z nadrukiem Prosto Tripad szary"
+    },
+    {
+      "id": 4,
+      "brand": "PROSTO",
+      "sizes": [
+        {
+          "size": "XS",
+          "amount": 5
+        },
+        {
+          "size": "S",
+          "amount": 7
+        },
+        {
+          "size": "M",
+          "amount": 15
+        },
+        {
+          "size": "L",
+          "amount": 32
+        },
+        {
+          "size": "XL",
+          "amount": 8
+        }
+      ],
+      "image": "https://sportstylestory.com/gfx/prosto_kl232mtee1212-20s-gleboka_czern_46018.jpg",
+      "gender": "male",
+      "price": 119.99,
+      "name": "Męski tshirt z nadrukiem Prosto Tripad czarny"
+    },
+    {
+      "id": 5,
+      "brand": "PROSTO",
+      "sizes": [
+        {
+          "size": "XS",
+          "amount": 2
+        },
+        {
+          "size": "S",
+          "amount": 0
+        },
+        {
+          "size": "M",
+          "amount": 1
+        },
+        {
+          "size": "L",
+          "amount": 0
+        },
+        {
+          "size": "XL",
+          "amount": 4
+        }
+      ],
+      "image": "https://sportstylestory.com/gfx/prosto_kl232mtee1211-10s-bialy_87597.jpg",
+      "gender": "male",
+      "price": 119.99,
+      "name": "Męski tshirt z nadrukiem Prosto Tripad biały"
+    },
+    {
+      "id": 6,
+      "brand": "PROSTO",
+      "sizes": [
+        {
+          "size": "XS",
+          "amount": 7
+        },
+        {
+          "size": "S",
+          "amount": 5
+        },
+        {
+          "size": "M",
+          "amount": 4
+        },
+        {
+          "size": "L",
+          "amount": 0
+        },
+        {
+          "size": "XL",
+          "amount": 6
+        }
+      ],
+      "image": "https://sportstylestory.com/gfx/prosto_kl232mtee1182-20s-gleboka_czern_09578.jpg",
+      "gender": "male",
+      "price": 119.99,
+      "name": "Męski tshirt z nadrukiem Prosto Klassio czarny"
+    }
+  ]
+}
