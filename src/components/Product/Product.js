@@ -12,14 +12,16 @@ const Product = ({ data }) => {
     setSelectedSize(size)
   }
 
+  console.log(selectedSize)
+
   const productSizes =
     product &&
     product.sizes.map((size) => (
       <button
         key={size.size}
         value={size.size}
-        className={selectedSize === size.size ? "active" : ""}
-        onClick={() => handleSizeClick(size.size)}
+        className={selectedSize && selectedSize.size === size.size ? "active" : ""}
+        onClick={() => handleSizeClick(size)}
       >
         {size.size}
       </button>
@@ -43,6 +45,12 @@ const Product = ({ data }) => {
             {product && product.price}
           </p>
         </div>
+        {selectedSize && selectedSize.amount < 10 
+        ? 
+        <div className="product-amout">
+          <p>Pozostało tylko {selectedSize.amount} ostatnich sztuk</p>  
+        </div>
+        : null}
         <div className="product-sizes">
           <p>Wybierz rozmiar</p>
           {productSizes}
